@@ -96,3 +96,4 @@ if st.button('Analiz Yap') and analysis != "":
 elif analysis == "":
     st.error("Lütfen analiz yapılacak tweet giriniz.")
 
+
